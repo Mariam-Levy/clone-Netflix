@@ -10,4 +10,4 @@ Con responsive
 https://mariam-levy.github.io/Fragaria/
 
 ## Creditos ✒️
-Diseño realizado por [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA)
+Diseño realizado por [GreatStack](https://www.youtube.com/watch?v=Tgat3-prVv4)
