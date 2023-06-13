@@ -4,7 +4,7 @@ Con responsive
 
 ## Construido con 🛠️
 * HTML
-* Sass
+* SASS
 
 ## Previsualización
 https://mariam-levy.github.io/clone-Netflix/
