@@ -1,5 +1,5 @@
 # clone-Netflix
-Website usando HTML y Sass.
+Landing page usando HTML y SASS.
 Con responsive
 
 ## Construido con 🛠️
